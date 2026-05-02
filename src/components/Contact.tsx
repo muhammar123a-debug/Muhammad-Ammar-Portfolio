@@ -13,7 +13,7 @@ export default function Contact() {
     const formData = new FormData(e.currentTarget);
     const subject = formData.get('subject') as string;
     const body = formData.get('message') as string;
-    window.location.href = `mailto:muhammar123a@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+    window.location.href = `mailto:muhammar4567@gmail.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
   };
 
   return (
@@ -32,7 +32,7 @@ export default function Contact() {
 
             <div className="space-y-6">
               <a 
-                href="mailto:muhammar123a@gmail.com" 
+                href="mailto:muhammar4567@gmail.com" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-8 p-10 bg-white/[0.02] border border-white/5 rounded-[2rem] group hover:bg-white/[0.04] hover:border-cyan-500/30 transition-all"
@@ -42,7 +42,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <div className="text-[10px] font-mono text-white/20 uppercase tracking-widest mb-2">Protocol: SMTP</div>
-                  <div className="text-lg sm:text-xl md:text-2xl font-bold tracking-tight break-all sm:break-normal">muhammar123a@gmail.com</div>
+                  <div className="text-lg sm:text-xl md:text-2xl font-bold tracking-tight break-all sm:break-normal">muhammar4567@gmail.com</div>
                 </div>
               </a>
 
