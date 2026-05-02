@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "Student Success Predictor",
+    "description": "An end-to-end Machine Learning application that predicts student exam performance using Linear Regression. Built with Python, Pandas, and Scikit-learn, and deployed using Streamlit for real-time predictions.",
+    "imageUrl": "https://images.unsplash.com/photo-1543286386-713bdd548da4?auto=format&fit=crop&q=80&w=1000",
+    "githubUrl": "https://github.com/muhammar123a-debug/Student-Performance-Predictor",
+    "liveUrl": "https://students-performance-prediction-a.streamlit.app/",
+    "tags": ["Streamlit"],
+    "createdAt": 1714643781000
+  },
+  {
+    "id": "2",
+    "title": "Bangalore House Price Predictor",
+    "description": "A full-stack Machine Learning project that predicts house prices using Ridge Regression. Includes a Flask backend API and a responsive frontend UI. Demonstrates end-to-end ML deployment.",
+    "imageUrl": "https://images.unsplash.com/photo-1551288049-bbbda536ad31?auto=format&fit=crop&q=80&w=1000",
+    "githubUrl": "https://github.com/muhammar123a-debug/bangalore-house-price-predictor",
+    "liveUrl": "https://bangalore-house-price-predictor-seven.vercel.app/",
+    "tags": ["Full-stack", "Flask", "Regression"],
+    "createdAt": 1714643681000
+  },
+  {
+    "id": "3",
+    "title": "Car Price Predictor",
+    "description": "A Machine Learning application that predicts car prices using Linear Regression. Built with Flask and containerized using Docker, showing deployment and production concepts.",
+    "imageUrl": "https://images.unsplash.com/photo-1558981403-c5f97dbbe6ad?auto=format&fit=crop&q=80&w=1000",
+    "githubUrl": "https://lnkd.in/dNMHr-YY",
+    "liveUrl": "https://lnkd.in/diVdKDGE",
+    "tags": ["Docker", "Flask", "MLOps"],
+    "createdAt": 1714643581000
+  }
+]
